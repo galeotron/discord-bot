@@ -5,7 +5,7 @@ int main () {
 
 	cout << "hello" << endl;
 	
-	test nonsense
+	cout << "test nonsense" << endl;
 
 	return 0 ;
 }
